@@ -1,0 +1,10 @@
+transformers==4.11.3
+googletrans==4.0.0-rc1
+gtts
+pytz
+python-dateutil
+requests
+beautifulsoup4
+flask
+flask-cors
+schedule
